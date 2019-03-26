@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SearchView</string>
+
+    <string-array name="query_suggestions">
+        <item>Furniture</item>
+        <item>Women Fashion</item>
+        <item>Hotels</item>
+        <item>Man Fashion</item>
+        <item>Electronics Appliances</item>
+    </string-array>
+
+</resources>
+
